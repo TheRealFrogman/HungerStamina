@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HungerStamina:jar">
+    <output-path>$PROJECT_DIR$/../test-server/plugins</output-path>
+    <root id="archive" name="HungerStamina.jar">
+      <element id="module-output" name="HungerStamina" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

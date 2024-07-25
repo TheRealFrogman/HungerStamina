@@ -1,4 +1,0 @@
-name: HungerStamina
-version: '1.0-SNAPSHOT'
-main: org.forg.hungerStamina.HungerStamina
-api-version: '1.20'
